@@ -1,4 +1,18 @@
 {
     "name": "@angelfabriciop/chordjs",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "description": "A simple JS library for playing chords from chord notation",
+    "license": "MIT",
+    "repository": "angel208/chordjs",
+    "main": "index.js",
+    "keywords": [
+        "chord",
+        "npm",
+        "midi",
+        "guitar"
+    ],
+    "dependencies": {
+        "chord-symbol": "^2.1.0",
+        "tone": "^14.7.77"
+    }
 }
